@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **DevOps & K6**
 
-- 📝 I occasionally write articles on [https://medium.com/@prazeina](https://medium.com/@prazeina)
+- 📝 I occasionally write blogs on [https://medium.com/@prazeina](https://medium.com/@prazeina) about **new things I learn**
 
-- 💬 Ask me about **I'll try my best to answer it**
+- 💬 Ask me about **Anything, and I'll try my best to answer it**
 
 - 📫 Reach out to me via **prazeina@gmail.com**
 
