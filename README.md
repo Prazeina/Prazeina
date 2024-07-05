@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Anything, and I'll try my best to answer it**
 
-- 📫 Reach out to me via **prazeina@gmail.com**
+- 📫 Reach out to me via Email: **prazeina@gmail.com**
 
 - 💬 I am open to collaborate **Let's grab a Chiya** 🍵
     
@@ -32,6 +32,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=prazeina&show_icons=true&locale=en&layout=compact" alt="prazeina" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prazeina&show_icons=true&locale=en" alt="prazeina" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prazeina&" alt="prazeina" /></p>
