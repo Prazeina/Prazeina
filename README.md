@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prazeina&label=Profile%20views&color=0e75b6&style=flat" alt="prazeina" /> </p>
 
 - 🗒 My motto in life is to **Learn, Share and Grow Together!** 💥
-- 🔭 I’m currently working on **Zenledger**
+- 🔭 I’m currently working at **ZenLedger**
 
 - 🌱 I’m currently learning **DevOps & K6**
 
