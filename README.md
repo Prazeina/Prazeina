@@ -1,13 +1,13 @@
 <h1 align="center">Hello! 👋, I'm Prajeena Maharjan 🚀🍀</h1> 
-<h3 align="center">An ardent QA Automation Engineer from Nepal 🇳🇵</h3> 
+<h3 align="center">An ardent Automation Engineer from Nepal 🇳🇵</h3> 
 <img align="right" alt="Coding" width="400" src="https://elmlearning.com/wp-content/uploads/2021/07/elmblog_headerimage_levelup_0712.jpg">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prazeina&label=Profile%20views&color=0e75b6&style=flat" alt="prazeina" /> </p>
 
 - 🗒 My motto in life is to **Learn, Share and Grow Together!** 💥
-- 🔭 I’m currently working at **ZenLedger**
+- 🔭 I’m currently pursuing my Master's Degree at **East Texas A&M University**
 
-- 🌱 I’m currently learning **DevOps & K6**
+- 🌱 I’m currently into **DevSecOps**
 
 - 📝 I occasionally write blogs on [https://medium.com/@prazeina](https://medium.com/@prazeina) about **new things I learn**
 
