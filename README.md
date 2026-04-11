@@ -1,5 +1,5 @@
 <h1 align="center">Hello! 👋, I'm Prajeena Maharjan 🚀🍀</h1> 
-<h3 align="center">An Aspiring ML Engineer from Nepal 🇳🇵</h3> 
+<h3 align="center">An Aspiring ML Engineer with background of Automation/SDET from Nepal 🇳🇵</h3> 
 <img align="right" alt="Coding" width="400" src="https://elmlearning.com/wp-content/uploads/2021/07/elmblog_headerimage_levelup_0712.jpg">
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=prazeina&label=Profile%20views&color=0e75b6&style=flat" alt="prazeina" /> </p> -->
